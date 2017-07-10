@@ -1,13 +1,13 @@
 ---
 layout: post
 title: BlocChat
-thumbnail-path: "/img/chat.png"
+thumbnail-path: "/img/Chat.png"
 short-description: A simple chat room with limited features.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/chat.png)
+![]({{ site.baseurl }}/img/Chat.png)
 
 ## Summary
 	
